@@ -1,0 +1,192 @@
+{
+  "status": "ok",
+  "totalResults": 67,
+  "articles": [
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Alex Fitzpatrick",
+      "title": "Where coffee prices are rising the most - Axios",
+      "description": "Coffee is one of many commodities affected by inflation and tariffs.",
+      "url": "https://www.axios.com/2025/09/29/coffee-prices-rising-map",
+      "urlToImage": "https://images.axios.com/IwTjApDold5fLfXBMIYctzHL0I0=/0x28:1344x784/1366x768/2025/09/25/1758811467162.png",
+      "publishedAt": "2025-09-29T14:11:37Z",
+      "content": "<ul><li>Coffee plants are also vulnerable to extreme weather tied to climate change, including droughts and heat waves.</li></ul>Driving the news: The median nationwide cost of a regular cup of coffe… [+998 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Barron's" },
+      "author": "Barron's",
+      "title": "Nvidia Stock Rises. Watch OpenAI to See Where It Goes Next. - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/nvidia-stock-price-openai-b24b56b6",
+      "urlToImage": null,
+      "publishedAt": "2025-09-29T13:58:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "The Wall Street Journal",
+      "title": "Nasdaq Opens Higher While Shutdown Looms - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/articles/stock-market-dollar-updates-6c72d476",
+      "urlToImage": null,
+      "publishedAt": "2025-09-29T13:54:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "STAT" },
+      "author": "Adam Feuerstein",
+      "title": "MoonLake can’t spin away this disastrous autoimmune drug failure - statnews.com",
+      "description": "MoonLake Immunotherapeutics tried hard to spin the poor results of its candidate for an autoimmune skin condition.",
+      "url": "https://www.statnews.com/2025/09/29/moonlake-drug-failure-autoimmune-skin-condition/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2022/06/AdamsTake_Illustration_MollyFerguson_061322-1024x576.jpg",
+      "publishedAt": "2025-09-29T13:42:35Z",
+      "content": "MoonLake Immunotherapeutics management team could not stop spinning Sunday, even when the results reported from its twin Phase 3 studies in hidradenitis suppurativa, an autoimmune skin condition, wer… [+854 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Tom Warren",
+      "title": "Microsoft launches ‘vibe working’ in Excel and Word - The Verge",
+      "description": "Microsoft is launching new AI tools in its Office apps. A new Agent Mode comes to Word and Excel, alongside an Office Agent in Copilot chat.",
+      "url": "https://www.theverge.com/news/787076/microsoft-office-agent-mode-office-agent-anthropic-models",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/excelagentmode.jpg?quality=90&strip=all&crop=0%2C3.477724691513%2C100%2C93.044550616974&w=1200",
+      "publishedAt": "2025-09-29T13:30:14Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nA new Agent Mode comes to Office apps today, alongside an Office Agent in Copilot chat.\r\nA new Agent Mode comes to Office apps today, alongside an Office Agent i… [+6548 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Sawdah Bhaimiya",
+      "title": "Lufthansa to cut 4,000 jobs as airline turns to AI to boost efficiency - CNBC",
+      "description": "Lufthansa announced plans to cut a sweeping 4,000 roles on Monday as it aims to increase profitability and lean on AI to drive efficiency.",
+      "url": "https://www.cnbc.com/2025/09/29/lufthansa-to-cut-4000-jobs-turns-to-ai-to-boost-efficiency-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204923-1759143102097-gettyimages-2205279799-AFP_374B8Y7.jpeg?v=1759145649&w=1920&h=1080",
+      "publishedAt": "2025-09-29T12:58:49Z",
+      "content": "Lufthansa announced plans to cut 4,000 roles on Monday as it aims to increase profitability and lean on AI to drive efficiency.\r\nThe airline group said it will eliminate a total of 4,000 FTE (full-ti… [+2307 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Csx.com" },
+      "author": null,
+      "title": "CSX Corp. Announces Leadership Transition - CSX",
+      "description": "CSX is a leading supplier of rail-based freight transportation in North America. But there's more to CSX than you might expect. Learn all about CSX and discover what we're doing for our customers, environment and communities. Visit http://www.csx.com/.",
+      "url": "https://www.csx.com/index.cfm/about-us/media/press-releases/csx-corp-announces-leadership-transition/",
+      "urlToImage": null,
+      "publishedAt": "2025-09-29T12:57:05Z",
+      "content": "Steve Angel Appointed Chief Executive Officer Effective September 28\r\nOperating Performance Remains Strong and Still Expect Full-Year Volume Growth\r\nJACKSONVILLE, Fla. – September 29, 2025 – CSX Corp… [+9838 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Lillian Rizzo",
+      "title": "Comcast names Mike Cavanagh as co-CEO alongside Brian Roberts - CNBC",
+      "description": "Cavanagh previously served as chief financial officer of Comcast before being promoted to president in 2022.",
+      "url": "https://www.cnbc.com/2025/09/29/comcast-roberts-cavanagh-co-ceos.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107133139-1665576147438-gettyimages-1154818535-775367678.jpeg?v=1759149641&w=1920&h=1080",
+      "publishedAt": "2025-09-29T12:38:28Z",
+      "content": "Comcast announced Monday it's named Mike Cavanagh as co-CEO alongside longtime leader Brian Roberts, starting in January.\r\nCavanagh, who currently serves as president, will also be named to the Comca… [+3690 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Ea.com" },
+      "author": null,
+      "title": "EA Announces Agreement to be Acquired by PIF, Silver Lake, and Affinity Partners for $55 Billion - Electronic Arts Home Page",
+      "description": "Accelerates EA’s Strategic Vision to Advance the Future of Entertainment Stockholders to Receive $210 Per Share in Cash Representing 25% Premium to Unaffected Share Price Transaction Represents Largest All-Cash Sponsor Take-Private Investment in History Elect…",
+      "url": "https://news.ea.com/press-releases/press-releases-details/2025/EA-Announces-Agreement-to-be-Acquired-by-PIF-Silver-Lake-and-Affinity-Partners-for-55-Billion/default.aspx",
+      "urlToImage": null,
+      "publishedAt": "2025-09-29T12:01:49Z",
+      "content": "REDWOOD CITY, Calif.--(BUSINESS WIRE)-- \r\nElectronic Arts Inc. (NASDAQ: EA) (EA or the Company), a global leader in interactive entertainment, today announced that it has entered into a definitive ag… [+14657 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Elena Vardon, Adrià Calatayud",
+      "title": "GSK CEO Emma Walmsley to Step Down as Commercial Chief Takes Helm - The Wall Street Journal",
+      "description": "Walmsley is being succeeded by commercial chief Luke Miels after more than eight years at the helm",
+      "url": "https://www.wsj.com/business/c-suite/gsk-names-luke-miels-to-succeed-ceo-emma-walmsley-17264317",
+      "urlToImage": "https://images.wsj.net/im-93350522/social",
+      "publishedAt": "2025-09-29T11:37:00Z",
+      "content": "Copyright ©2025 Dow Jones &amp; Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Michael Wayland",
+      "title": "What's the 'natural demand' for EVs in the U.S.? We're about to find out - CNBC",
+      "description": "It's set to be a record year for electric vehicle sales, but demand is expected to decline once federal incentives to buy EVs are discontinued after Tuesday.",
+      "url": "https://www.cnbc.com/2025/09/29/electric-vehicles-ev-demand-federal-incentives-tax-credit.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108192661-1756498713098-gettyimages-2230970700-AA_24082025_2383661.jpeg?v=1758903811&w=1920&h=1080",
+      "publishedAt": "2025-09-29T11:30:01Z",
+      "content": "A view of Cadillac Escalade IQ Sport 2 at Electrify Expo San Francisco, the largest electric vehicles (EV) event in North America at Alameda Point in Alameda, California, United States on Aug. 23, 20… [+6592 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Financial Times" },
+      "author": "Robert Smith",
+      "title": "Welcome to the First Brands debt jungle - Financial Times",
+      "description": "‘Lions and tigers and off-balance sheet factoring, oh my!’",
+      "url": "https://www.ft.com/content/4dfcd04d-5ca0-449b-a705-3439da733382",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb9382096-53fd-4f2d-ad92-ea6e1858b1d3.jpg?source=next-barrier-page",
+      "publishedAt": "2025-09-29T11:29:31Z",
+      "content": "Complete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%.\r\n<ul><li>Global news &amp; analysis</li><li>Expert opinion</li><li>FT App… [+420 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Ambcrypto.com" },
+      "author": "Gladys Makena",
+      "title": "Bitcoin price action steadies above $110K – Will October set up the next ATH? - AMBCrypto",
+      "description": "Defensive support, stronger longs, and buyer flows put Bitcoin on track for $120k–$140k in Q4.",
+      "url": "https://ambcrypto.com/bitcoin-price-action-steadies-above-110k-will-october-set-up-the-next-ath/",
+      "urlToImage": "https://ambcrypto.com/wp-content/uploads/2025/09/Gladys-2-1000x600.webp",
+      "publishedAt": "2025-09-29T11:16:46Z",
+      "content": "Key Takeaways\r\nWhy is Bitcoin holding $110k important now?\r\nIt signals resilience, with Funding Rates at 0.006 and potential $301 million short liquidations on CEXs.\r\nWhats next for BTC price action?… [+2969 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Barrick.com" },
+      "author": null,
+      "title": "Barrick Announces Leadership Transition - Barrick Mining Corporation",
+      "description": "Barrick today announced that the Company’s Board of Directors has appointed Mark Hill as Group COO and Interim President and Chief Executive Officer, effective immediately, following the departure of Mark Bristow.",
+      "url": "https://www.barrick.com/English/news/news-details/2025/barrick-announces-leadership-transition/default.aspx",
+      "urlToImage": "https://s25.q4cdn.com/322814910/files/images/news/2025/barrick_mining_corporation.jpg",
+      "publishedAt": "2025-09-29T11:06:12Z",
+      "content": "Mark Hill Appointed Group COO and Interim President &amp; CEO\r\nSearch Underway to Identify Successor President &amp; CEO\r\nAll amounts expressed in U.S. dollars\r\nTORONTO Barrick Mining Corporation (NY… [+3232 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Jaguar Land Rover to resume some manufacturing after cyber-attack - BBC",
+      "description": "It's understood that production will resume at the Wolverhampton engine facility on 6 October.",
+      "url": "https://www.bbc.com/news/articles/cwydxpdgx61o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3e91/live/ab460620-9d21-11f0-92db-77261a15b9d2.jpg",
+      "publishedAt": "2025-09-29T11:03:14Z",
+      "content": "Theo Leggettbusiness correspondent and\r\nRachel Clunbusiness reporter\r\nJaguar Land Rover has said it will resume some production in the \"coming days\" after a cyber-attack forced the carmaker to suspen… [+3520 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Europeanspaceflight.com" },
+      "author": "Andrew Parsonson",
+      "title": "Avio Wins €40M ESA Contract to Design Reusable Upper Stage Demo - European Spaceflight",
+      "description": "Avio has secured a €40 million ESA contract to design a reusable rocket upper stage demonstrator that could serve as an evolution of its Vega family of rockets.",
+      "url": "https://europeanspaceflight.com/avio-wins-e40m-esa-contract-to-design-reusable-upper-stage-demo/",
+      "urlToImage": "https://europeanspaceflight.com/wp-content/uploads/2025/09/Avio-Wins-ESA-Contract-to-Develop-Reusable-Rocket-Upper-Stage.webp",
+      "publishedAt": "2025-09-29T10:54:28Z",
+      "content": "Credit: Avio / ESA\r\nThe European Space Agency has awarded Italian rocket builder Avio a 40 million contract to design a reusable rocket stage demonstrator.\r\nESA first published a call for the Phase 1… [+2880 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Openai.com" },
+      "author": null,
+      "title": "Introducing parental controls - OpenAI",
+      "description": "New tools and resources to support families, and notifications to keep teens safe",
+      "url": "https://openai.com/index/introducing-parental-controls/",
+      "urlToImage": "https://images.ctfassets.net/kftzwdyauwt9/1YNXACkWvWLuWJLkNO47QC/4eb437288b6ed7ace331976c2e32bf71/Art_Card_1920_x_1080.png?w=1600&h=900&fit=fill",
+      "publishedAt": "2025-09-29T10:49:23Z",
+      "content": "Were rolling out parental controls and a new parent resource page(opens in a new window) to help families guide how ChatGPT works in their homes. Available to all ChatGPT users starting today, parent… [+5991 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Forbes" },
+      "author": "Giacomo Tognini",
+      "title": "Tanking Covid-19 Vaccine Sales Are Crushing Biotech Billionaire Fortunes - Forbes",
+      "description": "Shares in Moderna and BioNTech have imploded since their 2021 peaks, shaving billions of dollars from their founders’ fortunes.",
+      "url": "https://www.forbes.com/sites/giacomotognini/2025/09/29/tanking-covid-19-vaccine-sales-are-crushing-biotech-billionaire-fortunes/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68d6ecd67cae96650d5bea01/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-09-29T10:30:00Z",
+      "content": "In August 2021, investors in biotech firms Moderna and BioNTech were riding high. Both companies were raking in billions of dollars in profits from their successful Covid-19 vaccines as governments a… [+8834 chars]"
+    }
+  ]
+}
