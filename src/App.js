@@ -3,6 +3,7 @@ import Navbar from "./Components/Navbar";
 import News from "./Components/News";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import LoadingBar from "react-top-loading-bar";
+import ScrollToTop from "react-scroll-to-top";
 
 const route = [
   { path: "/general", category: "general" },
@@ -30,6 +31,7 @@ export default class App extends Component {
     return (
       <BrowserRouter>
         <Navbar />
+        <ScrollToTop smooth color="black" style={{ borderRadius: "50%" }} />
         <LoadingBar progress={this.state.progress} height={3} color="red" />
         <Routes>
           {/* Optional: default route */}
